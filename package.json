@@ -1,5 +1,5 @@
 {
-  "name": "client",
+  "name": "taskrunner",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,10 +10,13 @@
     "@types/node": "^12.19.16",
     "@types/react": "^17.0.1",
     "@types/react-dom": "^17.0.0",
+    "graphql": "^15.5.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-scripts": "4.0.2",
+    "subscriptions-transport-ws": "^0.9.18",
     "typescript": "^4.1.3",
+    "urql": "^1.11.6",
     "web-vitals": "^1.1.0"
   },
   "scripts": {
